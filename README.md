@@ -1,7 +1,7 @@
 # Linux App Store
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/linuxappstore/linuxappstore-frontend/issues) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![https://img.shields.io/david/linuxappstore/linuxappstore.svg?path=web](https://img.shields.io/david/linuxappstore/linuxappstore.svg?path=web) [![CircleCI](https://circleci.com/gh/linuxappstore/linuxappstore.svg?style=svg)](https://circleci.com/gh/linuxappstore/linuxappstore)  
 
-Is a universal app store for Linux. The focus of the Linux App Store is to make Linux easier to use by making applications easier to find and install. The Linux App Store does not favor one distrobution over another. The Linux App Store also does not favor one package format over another.. Our goal is simply to make the software you use more accessible to you. See [linuxappstore.io](https://linuxappstore.io/)
+Is a universal app store for Linux. The focus of the Linux App Store is to make Linux easier to use by making applications easier to find and install. The Linux App Store does not favor one distrobution over another. The Linux App Store also does not favor one package format over another.. Our goal is simply to make the software you use more accessible to you. See [appstorelinux.io](https://appstorelinux.io/)
 
 ![Screenshot](https://i.imgur.com/Z3Lmpq3.png)
 
